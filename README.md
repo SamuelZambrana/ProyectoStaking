@@ -1,5 +1,5 @@
-# ProyectoStaking
-Proyecto adicional para una DeFi (Dezentralized Finance)
+# SmartContractStaking
+SmartContract para una DeFi (Dezentralized Finance)
 
 # Nota: Crearemos 3 contratos 
 1. Contrato principal para la gestion del proyecto : TokenFarm
